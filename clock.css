@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+body{
+    background: black;
+}
+
+#clock{
+    background: rgb(43, 42, 42);
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Audiowide', cursive;
+    padding: 40px;
+    width: 400px;
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 200px;
+    border: 2px solid white;
+    }
+
+   
